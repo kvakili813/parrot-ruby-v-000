@@ -1,4 +1,4 @@
-def parrot (talk)
-  puts "Squawk!"
+def parrot (Squawk!)
+  puts
 end# Create method `parrot` that outputs a given phrase and
-parrot# returns the phrase
+# returns the phrase
